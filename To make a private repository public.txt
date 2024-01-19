@@ -1,0 +1,21 @@
+To make a private repository public on GitHub, follow these steps:
+
+Navigate to the main page of your private repository on GitHub.
+
+Click on the "Settings" tab, which is located on the right side of the repository navigation bar.
+
+Scroll down to the "Danger Zone" section at the bottom of the Settings page.
+
+Find the "Change repository visibility" option.
+
+Click on the "Change repository visibility" button.
+
+A dialog box will appear asking you to confirm the change. Type the name of your repository to confirm the action.
+
+Click the "I understand, change repository visibility" button.
+
+Your private repository will now be made public. Keep in mind that making a repository public means that anyone on the internet can view and access the code. If your repository had any forks, those will also become public.
+
+Ensure that you are aware of the implications and potential security concerns associated with making a repository public, especially if it contains sensitive information.
+
+albert770/albert770.github.io
